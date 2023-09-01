@@ -32,7 +32,6 @@
 		818048712A8397AE00AC891F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		818048742A8397AE00AC891F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		818048762A8397AE00AC891F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8180487C2A839AE200AC891F /* ZoomVideoSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = ZoomVideoSDK.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,7 +72,6 @@
 				8180486E2A8397AD00AC891F /* Main.storyboard */,
 				818048712A8397AE00AC891F /* Assets.xcassets */,
 				818048732A8397AE00AC891F /* LaunchScreen.storyboard */,
-				8180487C2A839AE200AC891F /* ZoomVideoSDK.xcframework */,
 				818048762A8397AE00AC891F /* Info.plist */,
 			);
 			path = MyVideoSDKApp;
