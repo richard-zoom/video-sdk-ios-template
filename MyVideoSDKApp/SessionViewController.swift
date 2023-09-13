@@ -22,6 +22,7 @@ class SessionViewController: UIViewController, UITabBarDelegate { // (3)
     
     // MARK: Session Information
     // TODO: Ensure that you do not hard code JWT or any other confidential credentials in your production app.
+    // (2)
     let token = ""
     let sessionName = ""      // NOTE: Must match "tpc" field in JWT
     let userName = ""
